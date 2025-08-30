@@ -13,6 +13,16 @@
 
 ---
 
+## 🚀 Tech Stack
+**Languages & Tools:**  
+- 💻 Python | Java | C++ | JavaScript  
+- ⚙️ Flask | Node.js | React.js | HTML | CSS  
+- 🗄️ MySQL | MongoDB  
+- 🤖 TensorFlow | PyTorch | scikit-learn | OpenCV  
+- ☁️ Git | GitHub | Docker
+
+---
+
 ## 🌐 **Let's Connect**  
 <p align="left">
 <a href="https://www.linkedin.com/in/vedant-pawar16" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="linkedin" /></a>
@@ -21,4 +31,3 @@
 
 ---
 
-⭐️ *If you like my work, consider giving a star to my repositories!*  
