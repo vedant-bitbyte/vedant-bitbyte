@@ -15,11 +15,11 @@
 
 ## 🚀 Tech Stack
 **Languages & Tools:**  
-- 💻 Python | Java | C++ | JavaScript  
+- 💻 Python | Java | JavaScript  
 - ⚙️ Flask | Node.js | React.js | HTML | CSS  
 - 🗄️ MySQL | MongoDB  
 - 🤖 TensorFlow | PyTorch | scikit-learn | OpenCV  
-- ☁️ Git | GitHub | Docker
+- ☁️ Git | GitHub | Docker | DVC 
 
 ---
 
