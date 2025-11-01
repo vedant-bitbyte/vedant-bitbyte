@@ -15,8 +15,8 @@
 
 ## 🚀 Tech Stack
 **Languages & Tools:**  
-- 💻 Python | Java | JavaScript  
-- ⚙️ Flask | Node.js | React.js | HTML | CSS  
+- 💻 Python | Java | C  
+- ⚙️ Flask | React.js | HTML | CSS  
 - 🗄️ MySQL | MongoDB  
 - 🤖 TensorFlow | PyTorch | scikit-learn | OpenCV  
 - ☁️ Git | GitHub | Docker | DVC 
