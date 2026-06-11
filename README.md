@@ -1,4 +1,4 @@
-# Hi, I'm Vedant
+# Hi, I'm Vedant 
 
 I'm a Computer Science Engineering student who enjoys building backend systems, experimenting with machine learning, and figuring out how software works beneath the surface.
 
@@ -17,27 +17,22 @@ Most of my time goes into building projects, learning new technologies, and impr
 ### URL Shortener Service
 A backend-focused project that handles URL shortening, redirection, analytics, and API-based management.
 
-### Ad Placement Optimization System
-A machine learning project that recommends advertisements based on user interests and engagement data.
+### Loan Prediction Model using Python
+Machine learning project that predicts loan approval outcomes based on applicant attributes and financial history.
 
-### AI Chatbot
-A chatbot built with local language models, Flask, and a custom frontend.
+### Dynamic Pricing System using Python
+Designed and trained a machine learning model to generate data-driven pricing recommendations, helping businesses balance profitability, demand, and competitiveness.
 
-### Customer Feedback API
-REST API for collecting and managing customer feedback using a relational database backend.
-
-### Zen Flight (Learning Project)
-A procedural glider exploration game being built while learning Unity and game development.
 
 ## Technologies
 
 **Languages**
 
-Java • Python • SQL • JavaScript • C++
+Java • Python
 
 **Backend**
 
-Spring Boot • Flask • REST APIs • JWT • MySQL
+Spring Boot • Flask • REST APIs • JWT • MySQL • Redis
 
 **Machine Learning**
 
@@ -45,7 +40,7 @@ Scikit-learn • Pandas • NumPy • TensorFlow
 
 **Tools**
 
-Git • GitHub • Docker • Linux • Postman • IntelliJ IDEA • VS Code
+Git • GitHub • Docker • Postman • IntelliJ IDEA • VS Code 
 
 ## What I'm Learning Next
 
@@ -64,4 +59,4 @@ Git • GitHub • Docker • Linux • Postman • IntelliJ IDEA • VS Code
 
 ---
 
-I like building things, understanding why they work, and gradually making them better.
+> I like building things, understanding why they work, and gradually making them better.
