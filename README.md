@@ -56,15 +56,6 @@ Production-oriented backend application supporting URL shortening, analytics, re
 ### 🎯 Ad Placement Optimization System
 Machine learning project focused on improving advertisement targeting using user interests and engagement patterns.
 
-### 🤖 AI Chatbot
-Custom chatbot built using local LLMs, Flask backend, and a custom frontend interface.
-
-### 📊 Customer Feedback API
-Backend system for collecting, managing, and analyzing customer feedback through REST APIs and relational databases.
-
-### 🎮 Zen Flight (In Progress)
-A procedural glider exploration game inspired by slowroads.io, built to learn game development and simulation concepts.
-
 ---
 
 ## 📚 Current Learning Journey
