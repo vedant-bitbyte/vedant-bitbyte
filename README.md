@@ -6,16 +6,6 @@ Most of my time is spent learning new technologies, developing projects, and und
 
 ---
 
-## 🚀 Tech Stack
-**Languages & Tools:**  
-- 💻 Python | Java | C  
-- ⚙️ Flask | React.js | HTML | CSS  
-- 🗄️ MySQL | MongoDB  
-- 🤖 TensorFlow | PyTorch | scikit-learn | OpenCV  
-- ☁️ Git | GitHub | Docker | DVC 
-
----
-
 ## 🌐 **Let's Connect**  
 <p align="left">
 <a href="https://www.linkedin.com/in/vedant-pawar16" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="linkedin" /></a>
