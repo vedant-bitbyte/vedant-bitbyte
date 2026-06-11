@@ -1,81 +1,67 @@
-# Hey, I'm Vedant 👋
+# Hi, I'm Vedant
 
-Computer Science Engineering student passionate about Backend Development, Machine Learning, AI Systems, and building software that solves real-world problems.
+I'm a Computer Science Engineering student who enjoys building backend systems, experimenting with machine learning, and figuring out how software works beneath the surface.
 
-I enjoy understanding how systems work under the hood—from APIs and databases to machine learning pipelines, recommendation systems, and scalable backend architectures.
+Most of my time goes into building projects, learning new technologies, and improving my problem-solving skills. Recently I've been spending a lot of time on backend development, system design fundamentals, machine learning, and production-oriented software engineering.
 
----
+## Currently
 
-## 🚀 What I'm Currently Working On
+- Building backend projects with Java, Spring Boot, Flask, and MySQL
+- Learning system design and scalable application architecture
+- Studying machine learning and AI engineering concepts
+- Practicing data structures and algorithms
+- Exploring Docker, Redis, and microservices
 
-- Building production-style backend projects using Java, Spring Boot, MySQL, Redis, Docker, and Microservices.
-- Exploring Machine Learning, Deep Learning, and MLOps.
-- Learning system design, distributed systems, and scalable architectures.
-- Strengthening Data Structures & Algorithms for software engineering interviews.
+## Projects
 
----
+### URL Shortener Service
+A backend-focused project that handles URL shortening, redirection, analytics, and API-based management.
 
-## 🛠️ Tech Stack
+### Ad Placement Optimization System
+A machine learning project that recommends advertisements based on user interests and engagement data.
 
-### Languages
-- Java
-- Python
-- SQL
-- JavaScript
-- C++
+### AI Chatbot
+A chatbot built with local language models, Flask, and a custom frontend.
 
-### Backend
-- Spring Boot
-- Flask
-- REST APIs
-- JWT Authentication
-- MySQL
+### Customer Feedback API
+REST API for collecting and managing customer feedback using a relational database backend.
 
-### Machine Learning & AI
-- Scikit-learn
-- Pandas
-- NumPy
-- TensorFlow
-- Data Analysis
+### Zen Flight (Learning Project)
+A procedural glider exploration game being built while learning Unity and game development.
 
-### Tools
-- Git & GitHub
-- Docker
-- Postman
-- Linux
-- VS Code
-- IntelliJ IDEA
+## Technologies
 
----
+**Languages**
 
-## 📌 Featured Projects
+Java • Python • SQL • JavaScript • C++
 
-### 🔗 URL Shortener Service
-Production-oriented backend application supporting URL shortening, analytics, redirection handling, and API-driven access.
+**Backend**
 
-### 🎯 Ad Placement Optimization System
-Machine learning project focused on improving advertisement targeting using user interests and engagement patterns.
+Spring Boot • Flask • REST APIs • JWT • MySQL
 
----
+**Machine Learning**
 
-## 📚 Current Learning Journey
+Scikit-learn • Pandas • NumPy • TensorFlow
 
-- System Design
-- Microservices Architecture
-- Machine Learning Engineering
-- Deep Learning
+**Tools**
+
+Git • GitHub • Docker • Linux • Postman • IntelliJ IDEA • VS Code
+
+## What I'm Learning Next
+
+- Distributed Systems
+- Microservices
+- Cloud Technologies
 - MLOps
-- Cloud Fundamentals
+- Advanced Machine Learning
 
----
-
-## 🌐 Let's Connect
+## Connect
 
 <p align="left">
-<a href="https://www.linkedin.com/in/vedant-pawar16" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="linkedin" /></a>
-<a href="mailto:vcpawar1603@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="email" /></a>
+<a href="https://www.linkedin.com/in/vedant-pawar16">LinkedIn</a> •
+<a href="mailto:vcpawar1603@gmail.com">Email</a>
 </p>
 
 ---
 
-> Building, learning, breaking things, and improving every day.
+I like building things, understanding why they work, and gradually making them better.
