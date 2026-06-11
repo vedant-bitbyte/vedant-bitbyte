@@ -1,15 +1,8 @@
-# 👋 Hi, I'm Vedant
+# Hey, I'm Vedant 👋
 
-🎓 Computer Science Engineer (3rd Year) | 💡 AI & Machine Learning Developer | 🚀 Tech Enthusiast  
+Computer Science undergraduate focused on backend development, machine learning, and building software that solves practical problems.
 
----
-
-## 👨‍💻 About Me
-- 🔭 I’m currently learning and building projects in **Artificial Intelligence, Machine Learning, and Full Stack Development**.  
-- 🌱 Exploring **Generative AI, Multi-Agent Systems, and Game Development (Unity)**.  
-- 💬 Ask me about **Python, AI/ML, Flask, SQL, Web Development, and Algorithms**.  
-- 🤝 Open to collaborating on **AI-powered projects, APIs, and innovative web solutions**.  
-- 📫 Reach me at: **vcpawar1603@gmail.com**  
+Most of my time is spent learning new technologies, developing projects, and understanding how real-world systems work behind the scenes—from APIs and databases to machine learning pipelines and scalable architectures.
 
 ---
 
